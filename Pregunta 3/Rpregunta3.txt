@@ -1,0 +1,3 @@
+Pregunta 3 - Algoritmos de preprocesamiento
+
+https://colab.research.google.com/drive/1f1Rur6wFV-4fZzTg4Tzbp1IR3Wg51T1b?usp=sharing
